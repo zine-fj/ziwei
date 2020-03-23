@@ -172,7 +172,7 @@
 .news-two .list {
     width: 100%;
     float: left;
-    margin-top: 75px;
+    margin-top: 50px;
 }
 
 .news-two .list ul {
@@ -186,6 +186,7 @@
     background: #fff;
     border: 1px solid #E3E3E3;
     margin-left: 46px;
+    margin-top: 20px;
     padding: 4px;
     box-shadow: 0 0 8px #DDD;
     -moz-box-shadow: 0 0 8px #DDD;
